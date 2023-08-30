@@ -1,0 +1,15 @@
+1. What is the difference between short-term and long-term lazy?
+long term is better written so easier to debug
+long term lazy: slower to learn, faster to use
+
+2. What is the ssh command to connect to the ugrad machine?
+ssh cjeon6@ugradx.cs.jhu.edu
+
+3. What are the commands to move, copy, and remove a file on a Linux machine?
+mv cp rm
+
+4. What should you do to learn C and C++ faster?
+practice
+
+5. What will we do during the class time?
+review the previous days exercise and do todays exercise

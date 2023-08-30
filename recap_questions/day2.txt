@@ -1,0 +1,29 @@
+1. The command to compile a C program is gcc <source file> -std=c99 -pedantic -Wall -Wextra. Use man or Google to find out the meaning of the four flags, i.e. -std=c99, -pedantic, -Wall and -Wextra.
+-std=c99 : lets compiler know we are using the standard version c99 which was released in 1999
+-pedantic : turns of extensions which leads to more warning messages
+    ex) warns about string literals longer than 509 because it is not portable to use longer strings
+-Wall : enables common warnings; gives warnings on things that some consider questionable and are easy to avoid
+-Wextra : adds more warnings that arent included in Wall
+
+2. Briefly describe what a preprocessor, compiler and linker do when transporting C code into executable?
+proprocessor: scans, looks for directives, takes care (checks if they exist)
+compiler: turn source code into object code
+linker: take object code and combine it into one executable
+
+3. What does an undefined behavior mean in programming? Do we need to care about it? Why or why not?
+undefined behavior means a variable was not defined. we need to care about because the code can fail in mysterious ways. the failure can change depending on run.
+
+4. What does the modifier const mean?
+const makes a variable that can not be modified after it is assigned.
+
+5. What are the primitive types in C and what are their byte sizes?
+int : 4 bytes
+unsigned : 4 bytes
+long : 8 bytes
+float : 4 bytes
+double : 8 bytes
+char : 1 byte
+short: 2 bytes
+
+6. What is the value of 7 / 2 (a division of two integers) in a C program?
+7 / 2 = 3 bc its integer divison so it always rounds down.
