@@ -1,0 +1,14 @@
+1. Why do we use version control system like git?
+to version controal, to collaborate
+
+2. Name six common git commands?
+add, commit, push, pull, merge, log
+
+3. What are the files that must be included in your submission?
+.c file gitlog.txt in a zip
+
+4. How do you save and quit on emacs editor?
+ctrl-x ; ctrl-s ; ctrl-x ; ctrl-c
+
+5. How do you search and replace on emacs?
+esc < esc-x replace-string return key (search string) return key (replacement string) return key
