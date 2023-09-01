@@ -1,0 +1,23 @@
+commit 8e1bce1610e29075ea635a538f2622b37291931f
+Author: Clara Jeon <cjeon6@ugradx.cs.jhu.edu>
+Date:   Wed Aug 30 12:56:45 2023 -0400
+
+    recap questions added
+
+commit b2f0987bdcd49af2a59d24c2ed143ce1a3eb6260
+Author: Clara Jeon <cjeon6@ugradx.cs.jhu.edu>
+Date:   Wed Aug 30 12:54:55 2023 -0400
+
+    day 2 exercise done!
+
+commit e8148189227833fc0df57cedde293d6d57371f67
+Author: Clara Jeon <cjeon6@ugradx.cs.jhu.edu>
+Date:   Wed Aug 30 12:37:45 2023 -0400
+
+    first
+
+commit 065c93167763ca258bac9fc053c340d77b72b0eb
+Author: clara jeon <58401887+clarajeon126@users.noreply.github.com>
+Date:   Wed Aug 30 12:33:52 2023 -0400
+
+    Create hello
